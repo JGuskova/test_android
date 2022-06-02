@@ -1,0 +1,1 @@
+Data layer. At this level, for example, we describe work with an external API.

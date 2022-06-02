@@ -1,0 +1,1 @@
+Implementation of additional methods or common ones for some logic
